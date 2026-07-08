@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/HGidwani2005/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/HGidwani2005/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/HGidwani2005/leetcode/tree/master/0217-contains-duplicate) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/HGidwani2005/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3894-traffic-signal-color](https://github.com/HGidwani2005/leetcode/tree/master/3894-traffic-signal-color) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/HGidwani2005/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
