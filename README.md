@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/HGidwani2005/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/HGidwani2005/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/HGidwani2005/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/HGidwani2005/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/HGidwani2005/leetcode/tree/master/0217-contains-duplicate) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/HGidwani2005/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/HGidwani2005/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/HGidwani2005/leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/HGidwani2005/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/HGidwani2005/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/HGidwani2005/leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
