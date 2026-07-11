@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/HGidwani2005/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/HGidwani2005/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/HGidwani2005/leetcode/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/HGidwani2005/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/HGidwani2005/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HGidwani2005/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Math
