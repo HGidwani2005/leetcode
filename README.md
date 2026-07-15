@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/HGidwani2005/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HGidwani2005/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3099-harshad-number](https://github.com/HGidwani2005/leetcode/tree/master/3099-harshad-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/HGidwani2005/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3894-traffic-signal-color](https://github.com/HGidwani2005/leetcode/tree/master/3894-traffic-signal-color) |
 ## Two Pointers
 |  |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/HGidwani2005/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/HGidwani2005/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
