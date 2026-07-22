@@ -7,5 +7,4 @@ public:
         }
         return nums;
     }
- 
 };
