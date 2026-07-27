@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/HGidwani2005/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/HGidwani2005/leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/HGidwani2005/leetcode/tree/master/0485-max-consecutive-ones) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HGidwani2005/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/HGidwani2005/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/HGidwani2005/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HGidwani2005/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/HGidwani2005/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HGidwani2005/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/HGidwani2005/leetcode/tree/master/0217-contains-duplicate) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HGidwani2005/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/HGidwani2005/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HGidwani2005/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
