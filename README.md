@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/HGidwani2005/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/HGidwani2005/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/HGidwani2005/leetcode/tree/master/0485-max-consecutive-ones) |
+| [1402-reducing-dishes](https://github.com/HGidwani2005/leetcode/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HGidwani2005/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/HGidwani2005/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/HGidwani2005/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/HGidwani2005/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HGidwani2005/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/HGidwani2005/leetcode/tree/master/0217-contains-duplicate) |
+| [1402-reducing-dishes](https://github.com/HGidwani2005/leetcode/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HGidwani2005/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
@@ -77,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HGidwani2005/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1402-reducing-dishes](https://github.com/HGidwani2005/leetcode/tree/master/1402-reducing-dishes) |
+## Greedy
+|  |
+| ------- |
+| [1402-reducing-dishes](https://github.com/HGidwani2005/leetcode/tree/master/1402-reducing-dishes) |
 <!---LeetCode Topics End-->
