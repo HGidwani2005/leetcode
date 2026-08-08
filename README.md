@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/HGidwani2005/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/HGidwani2005/leetcode/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/HGidwani2005/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HGidwani2005/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HGidwani2005/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3894-traffic-signal-color](https://github.com/HGidwani2005/leetcode/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
@@ -92,11 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1402-reducing-dishes](https://github.com/HGidwani2005/leetcode/tree/master/1402-reducing-dishes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HGidwani2005/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HGidwani2005/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
 | [1402-reducing-dishes](https://github.com/HGidwani2005/leetcode/tree/master/1402-reducing-dishes) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/HGidwani2005/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HGidwani2005/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
 | ------- |
